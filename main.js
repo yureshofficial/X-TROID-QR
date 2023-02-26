@@ -37,7 +37,7 @@ app.get("/", (req, res) => {
           await delay(500 * 10);
           let link = await pastebin.createPasteFromFile(
             authfile,
-            "Queen-MD session",
+            "X Troid QR Code",
             null,
             0,
             "N"
@@ -60,18 +60,18 @@ app.get("/", (req, res) => {
               index: 2,
               urlButton: {
                 displayText: "ɢɪᴠᴇ ᴍᴇ ᴀ ꜱᴛᴀʀ ᴏɴ ɢɪᴛʜᴜʙ ⭐",
-                url: `github.com/DarkWinzo/Queen-MD`,
+                url: `https://github.com/yureshofficial/X-Troid`,
               },
             },
             {
               index: 2,
               urlButton: {
                 displayText: "ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ 🎭️",
-                url: `https://www.youtube.com/@darkwinzo5483`,
+                url: `https://www.youtube.com/channel/UCYEKB_cqPyl2yKW21nknGfw`,
               },
             },
           ];
-          const ripo = ('𝚀𝚄𝙴𝙴𝙽 𝙼𝚄𝙻𝚃𝙸-𝙳𝙴𝚅𝙸𝙲𝙴 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃')
+          const ripo = ('X TROID 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃')
           const templateMessage = {
 
             text: `\nᴅᴇᴀʀ ᴜsᴇʀ ᴛʜɪs ɪs ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ
